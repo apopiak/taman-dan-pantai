@@ -11,6 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'https://apopiak.github.io/taman-dan-pantai'
+SITELOGO = 'https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
