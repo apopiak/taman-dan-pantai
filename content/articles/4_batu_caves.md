@@ -1,5 +1,5 @@
 Title: Batu Caves
-Date: 2017-03-22 23:11
+Date: 2017-03-23 23:11
 Category: KL
 
 So langsam sind wir akklimatisiert und auch Florian hat den letzen Jetlag überwunden, so dass wir heute früher aufstehen konnten, um zu den Batu Caves zu fahren. Diese befinden sich am nördlichsten Ausleger von Kuala Lumpur und sind gut mit dem Zug zu erreichen, wenn er einem nicht gerade vor der Nase wegfährt.
