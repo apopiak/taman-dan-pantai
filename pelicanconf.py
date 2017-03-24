@@ -6,7 +6,7 @@ AUTHOR = 'Alexander & Florian'
 SITENAME = 'Taman Dan Pantai'
 SITETITLE = SITENAME
 SITEURL = ''
-SITELOGO = 'https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg'
+SITELOGO = '/images/logo/logo.jpg'
 
 PATH = 'content'
 
