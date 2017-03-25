@@ -26,6 +26,6 @@ In Ipoh kamen wir mit anderthalb Stunden Verspätung an und waren sehr froh, ges
 
 Morgen werden wir uns auch hier die umliegenden Höhlen ansehen, diesmal sind die Tempel buddhistisch.
 
-Viele Grüße aus KL von
+Viele Grüße aus Ipoh von
 
 Alex & Flo
