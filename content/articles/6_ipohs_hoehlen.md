@@ -1,5 +1,5 @@
 Title: Ipohs Tempelhöhlen
-Date: 2017-03-24 20:46
+Date: 2017-03-25 20:46
 Category: Perak
 
 Nachdem wir gestern ein wenig Ipoh Stadt besichtigt hatten, habe wir uns heute die Höhlen in Ipohs Umgebung angesehen. Alle drei dieser Höhlen beherbergen buddhistische Tempel. Da außerdem gerade Schulferien sind, trafen wir viele Menschen aus Ipoh, die sich die Tempel ansahen oder dort beteten. Diese Tempel waren nicht weniger Farbenfroh als die hinduistischen Tempel der Batu Caves. Allerdings ist es hier erlaubt, die Schuhe anzubehalten und die Tempel füllen die kleineren Höhlen vollständig aus.

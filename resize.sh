@@ -1,1 +1,9 @@
-convert ./content/images/$1_big.jpg -resize 1920x1280 ./content/images/$1.jpg
+#! /usr/bin/env sh
+
+IMAGES=`find ./content/images -name "*_big.jpg"` 
+
+for image in $IMAGES
+do
+    new_name=`echo $image | sed -e "s/_big.jpg/.jpg/"`
+    convert $image -resize 1920x1280 $new_name
+done
