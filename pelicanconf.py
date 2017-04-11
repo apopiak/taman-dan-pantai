@@ -33,7 +33,7 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = False
 
-THEME = '/home/alexander/Documents/pelican-themes/Flex/'
+THEME = './themes/Flex/'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
